@@ -5,7 +5,7 @@ This project is part of my beginner journey into data analysis using Microsoft E
 ---
 ## 📁 Project Overview
 
-- **Topic:** Amazon product/sales data
+- **Topic:** Amazon Product and Customer Review Insights
 - **Goal:** To clean and analyze the data for insights into performance metrics like price, ratings, product categories, etc.
 
 ---
