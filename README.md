@@ -18,16 +18,18 @@ This project is part of my beginner journey into data analysis using Microsoft E
 
 ---
 
-## 📌 Key Steps
+## 🧹 Data Cleaning Summary
+1. **📌 Key Steps:** The original raw data was cleaned and processed using Excel.
+   - Removed duplicates and handled missing data
+   - Converted prices, discounts, and review counts into numeric format
+   - Created calculated columns such as:
+     - Total Potential Revenue
+     - Top 5 in Rating and Review
+     - Price Range Bucket
+     - 50% Discount or More
+     - Rating Count less than 1000
 
-1. **Data Cleaning**
-   - Removed unnecessary columns
-   - Fixed inconsistent text formatting
-   - Removed duplicates
-   - Standardized price and rating values
-   - Handled Missing Data
-
-3. **Data Exploration**
+2. **Data Exploration**
    - Identified top-rated products
    - Filtered and grouped categories
    - Calculated average prices and rating distributions
@@ -40,6 +42,8 @@ This project is part of my beginner journey into data analysis using Microsoft E
      - Average price per category
      - Product counts by category
      - Products with high discount
+    
+
      
     
     
@@ -71,7 +75,7 @@ Here’s a sample chart from my Excel analysis:
 
 ---
 
-## 💡 What I Learned
+## 💡What I learned on this project
 - How to clean and structure raw e-commerce data
 - Use of PivotTables for insight discovery
 - Creating dashboards and visual reports in Excel
